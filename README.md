@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React and AngularJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Github Page: https://patelheta.github.io/my-resume/
 
 <!---
 patelheta/patelheta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
