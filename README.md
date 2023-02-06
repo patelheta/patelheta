@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @patelheta
+- 👩🏻‍💻 I'm a Full Stack Developer
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and AngularJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 Github Page: https://patelheta.github.io/my-resume/
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on React Project
+- 📫 Portfolio Page: [https://hetapatel.vercel.app/](https://hetapatel.vercel.app/)
 
-<!---
-patelheta/patelheta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎒 My Skills:
+  Languages: JavaScript (strong), TypeScript, Ruby, Python, HTML, CSS, SQL, SASS
+  Frameworks & Libraries: NodeJS, React, Express, jQuery, Ajax, EJS, AngularJS, Rails,
+                          Bootstrap, Axios, Stripe, Next.js, Tailwind
+  Systems & Databases: PostgreSQL, MySQL, MongoDB, Git, Babel, Webpack 
+  Testing: Jest, Mocha, Chai, Storybook, Cypress, RSpec
+  Cloud Technologies & IDES: AZURE, VS Code, Visual Studio
